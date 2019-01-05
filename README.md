@@ -1,2 +1,2 @@
-# erdo_bash_training-
+# erdo_bash_training
 Bash Training Notes
